@@ -1,0 +1,128 @@
+vuepress dev
+vuepress docs:dev
+cls
+clear
+ll
+cd ..
+ll
+vuepress docs:dev
+ll
+total 12
+ls
+cd docs/
+ll
+vuepress docs:dev
+vuepress run dev
+vuepress dev
+vuepress dev docs
+ll
+clear
+ls
+ls -a
+cd .vuepress/
+ll
+cd ..
+ll
+cd ..
+ll
+yarn docs:dev
+yarn clean
+ls
+yarn run docs:dev
+yarn run docs:dev
+yarn run docs:dev
+yarn run docs:dev
+yarn run docs:dev
+yarn run docs:dev
+yarn run docs:dev
+yarn run docs:dev
+yarn run docs:dev
+yarn run docs:dev
+ll
+cd ..
+ll
+cd ..
+ll
+cd ..
+ll
+cd VuePress/
+cd vuepress-theme-api-1.0.0/
+ll
+yarn install
+yarn run dev
+npm run dev
+npm install
+npm run dev
+cls
+clear
+npm i
+npm run dev
+npm install vuepress-theme-api
+npm run dev
+npm run docs:dev
+yarn global add vuepress-theme-api
+npm run docs:dev
+cd h:/yangzq_sinosoft/GitHubBlog/
+ll
+cd Yangzhiq.github.io/
+ll
+yarn run dev
+yarn run dev
+yarn run dev
+yarn run dev
+ll
+yarn run dev
+yarn run dev
+ll
+yarn run dcos:dev
+yarn run dev
+ps
+docker ps
+ls
+ll
+vuepress run dev
+ll
+ls
+ls -a
+vuepress dev
+yarn dev
+ll
+ls
+cd ..
+ll
+cd ..
+ll
+yarn dev
+ll
+ls
+cd ..
+ll
+cd ..
+ll
+cd ..
+ll
+yarn dev
+ll
+cd docs/
+cd ..
+yarn build
+yarn build
+yarn dev
+yarn dev
+cd yangzq_sinosoft/GitHubBlog/Yangzhiq.github.io/
+ls
+cd docs/
+ll
+cd ..
+ls
+yarn dev
+cd ..
+ll
+cd Yangzhiq.github.io/
+ll
+sh deploy.sh 
+ll
+gcc -Wall -p hehe hello.c
+ll
+test > test.txt
+echo 'hello'
