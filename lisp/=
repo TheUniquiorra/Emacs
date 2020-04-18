@@ -1,0 +1,7 @@
+init-benchmarking.el:  "Note in `sanityinc/require-times' the time taken to require each feature."
+init-elpa.el:              (error "No version of %s >= %S is available" package min-version)
+init-gui-frames.el:;; Non-zero values for `line-spacing' can mess up ansi-term and co,
+init-lisp.el:    (error "No original buffer")))
+init-org.el:        `(("N" "Notes" tags "NOTE"
+init-org.el:           ((org-agenda-overriding-header "Notes")
+init-utils.el:    (error "No file is currently being edited"))

@@ -2,7 +2,7 @@
 ;;; Commentary:
 ;;; Code:
 
-(set-default-font "微软雅黑 16")
+;;(set-default-font "微软雅黑 16")
 
 ;;设置默认读入文件编码
 (prefer-coding-system 'utf-8)
