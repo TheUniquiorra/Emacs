@@ -1,10 +1,3 @@
-vuepress dev
-vuepress docs:dev
-cls
-clear
-ll
-cd ..
-ll
 vuepress docs:dev
 ll
 total 12
@@ -126,3 +119,10 @@ gcc -Wall -p hehe hello.c
 ll
 test > test.txt
 echo 'hello'
+ls
+ll
+yarn dev
+yarn dev
+ll
+yarn dev
+yarn dev

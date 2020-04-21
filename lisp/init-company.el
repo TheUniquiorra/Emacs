@@ -42,6 +42,10 @@
     (add-hook 'company-after-completion-hook 'sanityinc/page-break-lines-maybe-reenable)))
 
 
+;;提示忽略大小写
+(setq company-dabbrev-downcase nil)
+
+
 
 (provide 'init-company)
 ;;; init-company.el ends here
