@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: md-desc
+# key: md
+# --
+---
+title: 
+date: `(format-time-string "%Y-%m-%d")`
+tags: 
+ - 
+categories:
+ - 
+---

@@ -1,128 +1,128 @@
-vuepress docs:dev
-ll
-total 12
-ls
-cd docs/
-ll
-vuepress docs:dev
-vuepress run dev
-vuepress dev
-vuepress dev docs
-ll
-clear
-ls
-ls -a
-cd .vuepress/
-ll
-cd ..
-ll
-cd ..
-ll
-yarn docs:dev
-yarn clean
-ls
-yarn run docs:dev
-yarn run docs:dev
-yarn run docs:dev
-yarn run docs:dev
-yarn run docs:dev
-yarn run docs:dev
-yarn run docs:dev
-yarn run docs:dev
-yarn run docs:dev
-yarn run docs:dev
-ll
-cd ..
-ll
-cd ..
-ll
-cd ..
-ll
-cd VuePress/
-cd vuepress-theme-api-1.0.0/
-ll
-yarn install
-yarn run dev
-npm run dev
-npm install
-npm run dev
-cls
-clear
-npm i
-npm run dev
-npm install vuepress-theme-api
-npm run dev
-npm run docs:dev
-yarn global add vuepress-theme-api
-npm run docs:dev
-cd h:/yangzq_sinosoft/GitHubBlog/
-ll
-cd Yangzhiq.github.io/
-ll
-yarn run dev
-yarn run dev
-yarn run dev
-yarn run dev
-ll
-yarn run dev
-yarn run dev
-ll
-yarn run dcos:dev
-yarn run dev
-ps
-docker ps
-ls
-ll
-vuepress run dev
-ll
-ls
-ls -a
-vuepress dev
-yarn dev
-ll
-ls
-cd ..
-ll
-cd ..
-ll
-yarn dev
-ll
-ls
-cd ..
-ll
-cd ..
-ll
-cd ..
-ll
-yarn dev
-ll
-cd docs/
-cd ..
-yarn build
-yarn build
-yarn dev
-yarn dev
-cd yangzq_sinosoft/GitHubBlog/Yangzhiq.github.io/
-ls
-cd docs/
-ll
-cd ..
-ls
-yarn dev
-cd ..
-ll
-cd Yangzhiq.github.io/
+git diff
+git add .
+git commit
+git commit
+git commit -m "add something"
+git push gitee master
+git push github master
+git push github master
 ll
 sh deploy.sh 
+sh deploy.sh 
+cd ..
 ll
-gcc -Wall -p hehe hello.c
+cd vuepress-reco/
+rm -rf *
 ll
-test > test.txt
-echo 'hello'
+rm -rf *
+echo '# hello world' > READ.MD
+LL
+ll
+mv READ.MD README.MD
+mv README.MD README.md
+ll
+npx vuepress dev docs
+ll
+yarn dev
+yarn dev
+yarn add vuepress-theme-reco
+ll
+cd docs/
+ll
+mkdir .vuepress
+mkdir guide
+cd guide/
+touch README.md
+c d..
+cd ..
+ll
 ls
 ll
 yarn dev
 yarn dev
+yarn dev
+yarn dev
+cd ..
+cd .
+cd ..
+ll
+mkdir reco
+git clone https://github.com/vuepress-reco/vuepress-theme-reco.git
+ll
+git clone https://gitee.com/vuepress-reco/vuepress-theme-reco.git
+ll
+cd vuepress-theme-reco/
+yarn install
+cd ..
+ll
+cd reco/
+ll
+cd my-blog/
 ll
 yarn dev
 yarn dev
+yarn dev
+yarn dev
+yarn dev
+yarn dev
+yarn dev
+git clone --recursive https://gitee.com/andrew_heung/yasnippet.git
+ll
+ls
+cd yasnippet/
+ls
+ll
+cd ..
+git clone https://github.com/capitaomorte/yasnippet
+git clone https://gitee.com/bszscf/yasnippet.git
+LL
+ll
+ll
+ls
+rm md 
+ll
+cd /media/yangzq/project/yangzq_sinosoft/GitHubBlog/
+ll
+cd reco/
+cd my-blog/
+ls
+yarn dev
+yarn dev
+yarn dev
+yarn dev
+yarn dev
+yarn dev
+yarn dev	
+cd /media/yangzq/project/yangzq_sinosoft/GitHubBlog/reco/my-blog/
+ll
+yarn dev
+yarn dev
+yarn dev
+yarn dev
+ll
+git init
+git add .
+git commit -m "cha	nge blog theme to reco"
+ll
+ll
+grep "translate.google.com" *.el
+ll
+grep "translate.google.com" *.el
+grep "translate.google.com:80" *.el
+grep ":80" *.el
+grep "translate.google.com:80" *.el
+grep "translate.google.com" *.el
+grep "kbd" *.el
+grep "kbd" *
+grep "kbd" *.elc
+grep "kbd" *.el
+ll
+grep "C" *.el
+git clone https://gitee.com/bszscf/google-translate.git
+ll
+rm -rf google-translate/
+git clone https://gitee.com/bszscf/google-translate.git ./
+ll
+cd ..
+ll
+cd ..

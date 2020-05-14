@@ -1,4 +1,4 @@
-(add-to-list 'load-path "~/.emacs.d/auto-save/") ; add auto-save to your load-path
+(add-to-list 'load-path "~/.emacs.d/plugins/auto-save/") ; add auto-save to your load-path
 (require 'auto-save)
 (auto-save-enable)
 
